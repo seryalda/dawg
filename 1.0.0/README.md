@@ -1,4 +1,4 @@
-# 🚀 MARVIN PCB Board v1.0.0
+# 🚀 DAWG v1.0.0
 
 <img src="3dv1.png" alt="PCB Back" width="300">
 

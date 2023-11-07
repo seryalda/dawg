@@ -6,7 +6,7 @@
 
 ## Overview
 
-DAWG (RAIL DIN Ready Relay Driver Board). This board is purpose-built to address a common need in electronics projects: providing a reliable HV relay driver. Its primary goal is to enable low-voltage output controllers like Arduino and ESP microcontrollers to efficiently control higher AC/DC voltage loads such as CONTACTORS.
+DAWG AC Relay Driver Board. This board is purpose-built to address a common need in electronics projects: providing a reliable HV relay driver. Its primary goal is to enable low-voltage output controllers like Arduino and ESP microcontrollers to efficiently control multiple high voltage AC/DC loads such as industrial Switch Relays or AC CONTACTORS
 
 📚 Check out the different board versions below:
 

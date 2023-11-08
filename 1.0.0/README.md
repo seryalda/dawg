@@ -36,7 +36,7 @@ DAWG (AC Relay Driver Board). This board is purpose-built to address a common ne
 
 ## Usage
 
-Explain how to use the MARVIN PCB Board v1.0.0 or any associated software. Include code snippets or examples if applicable.
+NA
 
 [🔝 Top](#top)
 

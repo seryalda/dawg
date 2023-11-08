@@ -50,10 +50,10 @@ NA
 If you want to install it on a rail din enclosure, you will need:
 
 - A mounting bracket with two 3mm M3 screws at 25mm center to center apart.
-  ![Mounting Bracket](3dv1.png){:height="300px" width="300px"}
+  <img src="3dv1.png" alt="PCB Back" width="300">
 
 - Slotted Metal/Aluminum Rail DIN.
-  ![Mounting Bracket](3dv1.png){:height="300px" width="300px"}
+  <img src="3dv1.png" alt="PCB Back" width="300">
 
   
 [🔝 Top](#top)

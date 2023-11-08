@@ -18,7 +18,7 @@ DAWG (AC Relay Driver Board). This board is purpose-built to address a common ne
 : This is the initial board version that started it all!
 | Version | Board Image | Release Date  | Remarks   | Notes |
 |--------------------|--------------------------------------------|-------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
-| [🎉 1.0.0](./1.0.0) | <img src="3dv1.jpg" alt="PCB Back" width="150"> | <img src="slotted-metal-rail-din1.jpg" alt="PCB Back" width="150"> | <img src="m3-screws1.jpg" alt="PCB Back" width="150"> | <img src="rail-din-mounting-bracket1.jpg" alt="PCB Back" width="150"> |
+| [1.0.0](./1.0.0) | <img src="3dv1.jpg" alt="PCB Back" width="150"> | <img src="slotted-metal-rail-din1.jpg" alt="PCB Back" width="150"> | <img src="m3-screws1.jpg" alt="PCB Back" width="150"> | <img src="rail-din-mounting-bracket1.jpg" alt="PCB Back" width="150"> |
 
 
 [🔝 Top](#top)

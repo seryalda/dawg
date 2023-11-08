@@ -21,19 +21,16 @@
 
 DAWG (AC Relay Driver Board). This board is purpose-built to address a common need in electronics projects: providing a reliable AC relay driver. Its primary goal is to enable low-voltage output controllers like Arduino and ESP microcontrollers to efficiently control multiple AC CONTACTORS or Industrial DC Relay Switches (of DC voltage more than 12VDC).
 
-### Key Objectives:
+## Features
 
-- **Relay Control:** MARVIN v1.0.0 simplifies the process of controlling mechanical and solid-state relays, allowing you to manage higher voltage loads with ease.
+- **Relay Control:** simplifies the process of controlling mechanical and solid-state relays, allowing you to manage higher voltage loads with ease.
 
-- **Versatility:** The board is designed to support both 5VDC and 12VDC relay configurations, making it adaptable to a wide range of applications.
+- **Versatility:** The board is designed to drive HV relay swiches (both mechanical and solid-state), making it adaptable to a wide range of applications.
 
-- **Ease of Integration:** With user-friendly jumper pin configurations and DIN RAIL compatibility, MARVIN ensures easy integration into your projects and existing distribution systems.
+- **Ease of Integration:** With user-friendly terminal screw blocks, connectors, pin headers configurations the board ensures easy integration.
 
-🛒 **[Visit our E-commerce Store (Lazada)](https://www.lazada.com.ph/seryalda)** to purchase MARVIN.  (Ctrl+Click to open in a new tab)
+- **DIN Rail Support:** The board is DIN RAIL compatible, allowing you to seamlessly mount it in standard DIN RAIL enclosures. This feature ensures that your projects look professional, sturdy and can be easily integrated into existing distribution panels.
 
-🛒 **[Visit our E-commerce Store (Amazon.sa)](https://www.amazon.sa/s?k=seryalda)** to purchase MARVIN.  (Ctrl+Click to open in a new tab)
-
-🎥 **[Check out our YouTube Channel](https://www.youtube.com/@seryalda)** for tutorials and project demonstrations.  (Ctrl+Click to open in a new tab)
 
 [🔝 Top](#top)
 
@@ -48,7 +45,6 @@ DAWG (AC Relay Driver Board). This board is purpose-built to address a common ne
 
 🔘 **Easy Integration:** The board is designed for easy integration into your projects, with clear and straightforward pin configurations.
 
-🚀 **DIN RAIL Compatible:** MARVIN PCB Board v1.0.0 is DIN RAIL compatible, allowing you to seamlessly mount it in standard DIN RAIL enclosures. This feature ensures that your projects look professional and can be easily integrated into existing distribution panels.
 
 📦 **Complete Package:** MARVIN PCB Board v1.0.0 comes with all the necessary components and connectors to get you started on your relay control projects.
 

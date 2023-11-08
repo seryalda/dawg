@@ -37,7 +37,7 @@ Welcome to the MARVIN PCB Board v1.0.0 showcase. This board is purpose-built to 
 
 🎥 **[Check out our YouTube Channel](https://www.youtube.com/@seryalda)** for tutorials and project demonstrations.  (Ctrl+Click to open in a new tab)
 
-[🔝 Up](#top)
+[🔝 Top](#top)
 
 
 ## Features
@@ -64,19 +64,19 @@ Welcome to the MARVIN PCB Board v1.0.0 showcase. This board is purpose-built to 
 
 Explore the versatility and reliability of MARVIN PCB Board v1.0.0 for your relay control applications, with the added benefit of DIN RAIL compatibility for a professional appearance.
 
-[🔝 Up](#top)
+[🔝 Top](#top)
 
 ## Usage <a name="usage"></a>
 
 Explain how to use the MARVIN PCB Board v1.0.0 or any associated software. Include code snippets or examples if applicable.
 
-[🔝 Up](#top)
+[🔝 Top](#top)
 
 ## Installation <a name="installation"></a>
 
 If there are specific installation instructions for the MARVIN PCB Board v1.0.0 or related software, provide them here.
 
-[🔝 Up](#top)
+[🔝 Top](#top)
 
 
 
@@ -90,7 +90,7 @@ Check out our video tutorials on YouTube to learn how to get started with MARVIN
 2. [Tutorial 2: Advanced Features and Integration](https://www.youtube.com/watch?v=your_video_link_here) (Ctrl+Click to open in a new tab)
 3. [Tutorial 3: Troubleshooting and Tips](https://www.youtube.com/watch?v=your_video_link_here) (Ctrl+Click to open in a new tab)
 
-[🔝 Up](#top)
+[🔝 Top](#top)
 
 ## Compatible Processor Boards <a name="compatible-processor-boards"></a>
 
@@ -102,7 +102,7 @@ MARVIN PCB Board v1.0.0 is compatible with a range of processor boards, includin
 
 Explore the compatibility of MARVIN with these processor boards to enhance your projects.
 
-[🔝 Up](#top)
+[🔝 Top](#top)
 
 
 
@@ -111,12 +111,12 @@ Explore the compatibility of MARVIN with these processor boards to enhance your 
 
 N/A
 
-[🔝 Up](#top)
+[🔝 Top](#top)
 
 ## License <a name="license"></a>
 
 N/A
 
-[🔝 Up](#top)
+[🔝 Top](#top)
 
 ---

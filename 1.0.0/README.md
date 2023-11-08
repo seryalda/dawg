@@ -46,20 +46,6 @@ Explain how to use the MARVIN PCB Board v1.0.0 or any associated software. Inclu
   
 [🔝 Top](#top)
 
-
-
-
-
-## Tutorials <a name="tutorials"></a>
-
-Check out our video tutorials on YouTube to learn how to get started with MARVIN PCB Board v1.0.0:
-
-1. [Tutorial 1: Getting Started with MARVIN](https://www.youtube.com/watch?v=your_video_link_here) (Ctrl+Click to open in a new tab)
-2. [Tutorial 2: Advanced Features and Integration](https://www.youtube.com/watch?v=your_video_link_here) (Ctrl+Click to open in a new tab)
-3. [Tutorial 3: Troubleshooting and Tips](https://www.youtube.com/watch?v=your_video_link_here) (Ctrl+Click to open in a new tab)
-
-[🔝 Top](#top)
-
 ## Compatible Processor Boards <a name="compatible-processor-boards"></a>
 
 MARVIN PCB Board v1.0.0 is compatible with a range of processor boards, including:
@@ -68,12 +54,15 @@ MARVIN PCB Board v1.0.0 is compatible with a range of processor boards, includin
 |----------------------------------------|---------------------------------------------------------------------------------------------------------|---------------------------|
 | **Foghorn Version 1.0.0 Processor Board** | [Foghorn Repository](https://github.com/seryalda/foghorn) | The MARVIN board relay driver seamlessly integrates with the Foghorn Version 1.0.0 Processor Board. This processor board is an ESP8266 NodeMCU compatible board equipped with GPIO pins 4, 5, 12, and 14, allowing you to effortlessly control external switch relays. | 4, 5, 12, 14              |
 
-Explore the compatibility of MARVIN with these processor boards to enhance your projects.
+Explore the compatibility of DAWG with these processor boards to enhance your projects.
 
 [🔝 Top](#top)
 
+## FAQ
 
+N/A
 
+[🔝 Top](#top)
 
 ## Contributing <a name="contributing"></a>
 

@@ -50,7 +50,7 @@ If you want to install it on a rail din enclosure, you will need a mounting brac
 
 MARVIN PCB Board v1.0.0 is compatible with a range of processor boards, including:
 
-| Board                                  | Description                                                                                             | GPIO Pins                 |
+| Board                                  |  Link                                                                                             | Description              | GPIO Pins
 |----------------------------------------|---------------------------------------------------------------------------------------------------------|---------------------------|
 | **Foghorn Version 1.0.0 Processor Board** | [Foghorn Repository](https://github.com/seryalda/foghorn) | The board seamlessly integrates with the Foghorn Version 1.0.0 Processor Board. This processor board is an ESP8266 NodeMCU v3 compatible board with ready connect screw terminal block output mapped to GPIO pins 4, 5, 12, and 14 of the microcontroller allowing you to effortlessly control up to 4 external switch relays or CONTACTORS. | 4, 5, 12, 14              |
 

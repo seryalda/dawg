@@ -23,8 +23,6 @@ DAWG (AC Relay Driver Board). This board is purpose-built to address a common ne
 
 ## Features
 
-## Features
-
 - **Relay Control:** This feature simplifies the process of controlling mechanical and solid-state relays, enabling you to manage higher voltage loads with ease.
 
 - **Versatility:** The board is designed to drive HV relay switches, encompassing both mechanical and solid-state options, making it adaptable to a wide range of applications.

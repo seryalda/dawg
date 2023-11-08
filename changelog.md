@@ -1,7 +1,7 @@
 ## Top
 # 🎉 Changelog for DAWG AC Relay Driver Board
 
-[🏡 Back](/)
+### 🏡 [Back](/)
 
 ## [1.0.0] - 2023-11-06
 

@@ -42,8 +42,8 @@ Explain how to use the MARVIN PCB Board v1.0.0 or any associated software. Inclu
 
 ## Installation <a name="installation"></a>
 
-If there are specific installation instructions for the MARVIN PCB Board v1.0.0 or related software, provide them here.
-
+- if you want to install it on a rail din enclosure, you will need a mounting bracket w/ two 3mm M3 screws and Metal/Aluminum Rail DIN Rail Slotted Design
+  
 [🔝 Top](#top)
 
 

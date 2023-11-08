@@ -45,17 +45,7 @@ NA
 
 ## Installation
 
-If you want to install it on a rail din enclosure, you will need:
-
-- A mounting bracket with two 3mm M3 screws at 25mm center to center apart.
-<img src="rail-din-mounting-bracket1.jpg" alt="PCB Back" width="150">
-
-- Slotted Steel RAIL DIN.
-<img src="slotted-metal-rail-din1.jpg" alt="PCB Back" width="150">
-
-
-- Actual Setup.
-<img src="mounted-bracket-slotted-metal-rail-din.jpg" alt="PCB Back" width="150">
+If you want to install it on a rail din configurations, you will need:
 
 | Board | Mounting Brackets | Slotted Metal Rail DIN  | Screws M3 D=3mm, L=6mm   | Ex.     |
 |--------------------|--------------------------------------------|-------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|---------------|

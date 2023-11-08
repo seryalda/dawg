@@ -1,5 +1,5 @@
 ## Top
-# Changelog for DAWG
+# Changelog for DAWG v1.0.0
 
 [🏡 Back](/)
 

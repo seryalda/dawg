@@ -55,6 +55,10 @@ If you want to install it on a rail din enclosure, you will need:
 - Slotted Metal/Aluminum Rail DIN.
 <img src="slotted-metal-rail-din.jpg" alt="PCB Back" width="300">
 
+
+- Actual Setup
+<img src="mounted-bracket-slotted-metal-rail-din.jpg" alt="PCB Back" width="300">
+
   
 [🔝 Top](#top)
 

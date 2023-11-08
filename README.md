@@ -15,10 +15,10 @@ DAWG (AC Relay Driver Board). This board is purpose-built to address a common ne
 <!--
 - [🚀 Version 1.0.0](./1.0.0) : This is the initial board version that started it all!
 -->
-: This is the initial board version that started it all!
+
 | Version | Board Image | Release Date  | Remarks   | Notes |
 |--------------------|--------------------------------------------|-------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
-| [1.0.0](./1.0.0) | <img src="1.0.0/3dv1.png" alt="PCB Back" width="150"> | NOV 2023 | Just Do It! | Alright! |
+| [1.0.0](./1.0.0) | <img src="1.0.0/3dv1.png" alt="PCB Back" width="150"> | NOV 2023 | This is the initial board version that started it all! | Alright! |
 
 
 [🔝 Top](#top)

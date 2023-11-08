@@ -12,7 +12,10 @@ DAWG (AC Relay Driver Board). This board is purpose-built to address a common ne
 📚 Check out the different board versions below:
 
 ## Version
+<!--
 - [🚀 Version 1.0.0](./1.0.0) : This is the initial board version that started it all!
+-->
+- [🎉 Version 1.0.0](./1.0.0) : This is the initial board version that started it all!
 
 
 [🔝 Top](#top)

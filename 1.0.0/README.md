@@ -45,7 +45,7 @@ NA
 
 ## Installation
 
-If you want to install it on a rail din configurations, you will need:
+Things you will need, for wiring and on rail din configurations:
 
 | Wiring Diagram | Mounting Brackets | Slotted Metal Rail DIN  | Screws M3 D=3mm, L=6mm   | Ex.     |
 |--------------------|--------------------------------------------|-------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|---------------|

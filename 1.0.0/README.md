@@ -5,7 +5,9 @@
 
 <!--📷-->
 
-[🏡 Back](/)
+
+### 🏡 [Back](/)
+
 ## Table of Contents
 
 - 📚 [Introduction](#introduction)
@@ -16,8 +18,7 @@
 - 🖥️ [Compatible Processor Boards](#compatible-processor-boards)
 - 🤝 [Contributing](#contributing)
 - 📝 [License](#license)
-  
-[🏡 Back](/)
+
 
 ## Introduction
 

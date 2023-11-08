@@ -27,7 +27,7 @@ DAWG (AC Relay Driver Board). This board is purpose-built to address a common ne
 
 - **Versatility:** The board is designed to drive HV relay swiches (both mechanical and solid-state), making it adaptable to a wide range of applications.
 
-- **Ease of Integration:** With user-friendly terminal screw blocks, connectors, pin headers configurations the board ensures easy integration.
+- **Ease of Integration:** With user-friendly terminal screw blocks, connectors and pin headers configurations the board ensures easy integration.
 
 - **DIN Rail Support:** The board is DIN RAIL compatible, allowing you to seamlessly mount it in standard 35mm DIN RAIL enclosures. This feature ensures that your projects look professional, sturdy and can be easily integrated into existing distribution panels.
 - **Comprehensive Documentation:** Access comprehensive documentation to help you quickly get started and make the most of your relay switch driver.

@@ -7,12 +7,12 @@
 
 ## Table of Contents
 
-- 📚 [Introduction](#introduction)
+- 📚 [Overview](#overview)
 - 🎯 [Features](#features)
 - 🛠️ [Usage](#usage)
 - ⚙️ [Installation](#installation)
-- 📹 [Tutorials](#tutorials)
 - 🖥️ [Compatible Processor Boards](#compatible-processor-boards)
+- 🤝 [FAQ](#faq)
 - 🤝 [Contributing](#contributing)
 - 📝 [License](#license)
 
@@ -34,19 +34,19 @@ DAWG (AC Relay Driver Board). This board is purpose-built to address a common ne
 
 [🔝 Top](#top)
 
-## Usage <a name="usage"></a>
+## Usage
 
 Explain how to use the MARVIN PCB Board v1.0.0 or any associated software. Include code snippets or examples if applicable.
 
 [🔝 Top](#top)
 
-## Installation <a name="installation"></a>
+## Installation
 
 - if you want to install it on a rail din enclosure, you will need a mounting bracket w/ two 3mm M3 screws and Metal/Aluminum Rail DIN Rail Slotted Design
   
 [🔝 Top](#top)
 
-## Compatible Processor Boards <a name="compatible-processor-boards"></a>
+## Compatible Processor Boards
 
 MARVIN PCB Board v1.0.0 is compatible with a range of processor boards, including:
 
@@ -64,13 +64,13 @@ N/A
 
 [🔝 Top](#top)
 
-## Contributing <a name="contributing"></a>
+## Contributing
 
 N/A
 
 [🔝 Top](#top)
 
-## License <a name="license"></a>
+## License
 
 N/A
 

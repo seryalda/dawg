@@ -15,7 +15,7 @@ DAWG (AC Relay Driver Board). This board is purpose-built to address a common ne
 - [🚀 Version 1.0.0](./1.0.0) : This is the initial board version that started it all!
 
 
-[🔝 Back to Table of Contents](#top)
+[🔝 Up](#top)
 
 
 ## Changelog
@@ -23,4 +23,4 @@ DAWG (AC Relay Driver Board). This board is purpose-built to address a common ne
 
 
 
-[🔝 Back to Table of Contents](#top)
+[🔝 Up](#top)

@@ -65,7 +65,7 @@ If you want to install it on a rail din enclosure, you will need:
 
 ## Compatible Processor Boards
 
-MARVIN PCB Board v1.0.0 is compatible with a range of processor boards, including:
+DAWG Board v1.0.0 also works with below Processor Board:
 
 | Board              | Link                                       | Image                                                                                                 | Description                                                                                                                                      | GPIO Output Pins     |
 |--------------------|--------------------------------------------|-------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|---------------|

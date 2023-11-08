@@ -57,9 +57,9 @@ If you want to install it on a rail din enclosure, you will need:
 - Actual Setup.
 <img src="mounted-bracket-slotted-metal-rail-din.jpg" alt="PCB Back" width="150">
 
-| Board | Mounting Brackets | Slotted Metal Rail DIN  | Screws M3 D=3mm, L=6mm   | Panel Box     |
+| Board | Mounting Brackets | Slotted Metal Rail DIN  | Screws M3 D=3mm, L=6mm   | Ex.     |
 |--------------------|--------------------------------------------|-------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
-| <img src="3dv1.png" alt="PCB Back" width="150"> | <img src="rail-din-mounting-bracket1.jpg" alt="PCB Back" width="150"> | <img src="slotted-metal-rail-din1.jpg" alt="PCB Back" width="150"> | <img src="m3-screws1.jpg" alt="PCB Back" width="150"> | <img src="rail-din-mounting-bracket1.jpg" alt="PCB Back" width="150"> |
+| <img src="3dv1.png" alt="PCB Back" width="150"> | <img src="rail-din-mounting-bracket1.jpg" alt="PCB Back" width="150"> | <img src="slotted-metal-rail-din1.jpg" alt="PCB Back" width="150"> | <img src="m3-screws1.jpg" alt="PCB Back" width="150"> | <img src="mounted-bracket-slotted-metal-rail-din.jpg" alt="PCB Back" width="150"> |
   
 [🔝 Top](#top)
 

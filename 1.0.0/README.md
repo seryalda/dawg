@@ -89,9 +89,15 @@ N/A
 
 ## License
 
+Certainly! Here's an example of a table with fixed image width and wrapped titles:
+
+```markdown
 | Board | Mounting Brackets | Slotted Metal Rail DIN | Screws M3 D=3mm, L=6mm | Panel Box |
 |-------|-------------------|------------------------|-------------------------|-----------|
-| <img src="https://github.com/seryalda/foghorn/raw/main/1.0.0/3dv1.png" width="150"> | <img src="https://github.com/seryalda/foghorn/raw/main/1.0.0/3dv1.png" width="150"> | <img src="https://github.com/seryalda/foghorn/raw/main/1.0.0/3dv1.png" width="150"> | <img src="https://github.com/seryalda/foghorn/raw/main/1.0.0/3dv1.png" width="150"> | <img src="https://github.com/seryalda/foghorn/raw/main/1.0.0/3dv1.png" width="150"> |
+| ![PCB Back](https://github.com/seryalda/foghorn/raw/main/1.0.0/3dv1.png =150x) | ![Mounting Brackets](https://github.com/seryalda/foghorn/raw/main/1.0.0/3dv1.png =150x) | ![Slotted Metal Rail DIN](https://github.com/seryalda/foghorn/raw/main/1.0.0/3dv1.png =150x) | ![Screws M3 D=3mm, L=6mm](https://github.com/seryalda/foghorn/raw/main/1.0.0/3dv1.png =150x) | ![Panel Box](https://github.com/seryalda/foghorn/raw/main/1.0.0/3dv1.png =150x) |
+```
+
+Please note that GitHub's markdown doesn't directly support specifying image dimensions using HTML-like attributes, so these dimensions might not directly work. GitHub supports HTML tags to a certain extent, but it might not render as expected. Adjustments might be needed based on the markdown rendering of the platform you're using.
 
 
 [🔝 Top](#top)

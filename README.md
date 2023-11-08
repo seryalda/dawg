@@ -22,7 +22,7 @@ DAWG (AC Relay Driver Board). This board is purpose-built to address a common ne
 
 
 ## Changelog
-- [📃 Change Logs and Releases](./changelog.md)
+- [📃 Logs and Releases](./changelog.md)
 
 
 

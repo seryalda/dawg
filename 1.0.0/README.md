@@ -47,7 +47,10 @@ NA
 
 ## Installation
 
-To install it on a rail din enclosure, you'll require a mounting bracket with two 3mm M3 screws and a Metal/Aluminum Rail DIN Rail Slotted Design.
+If you want to install it on a rail din enclosure, you will need:
+- A mounting bracket with two 3mm M3 screws at 25mm center to center apart
+- Metal/Aluminum Rail DIN Rail Slotted Design
+
   
 [🔝 Top](#top)
 

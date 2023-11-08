@@ -1,3 +1,4 @@
+## Top
 # Changelog for MARVIN Relay Driver Board
 
 [🏡 Back](/)
@@ -10,7 +11,7 @@
 - Included silkscreen labels for pinouts, making it easier to identify the GPIO pins on the PCB board.
 - Added mounting holes for easy and secure installation onto various surfaces or enclosures.
   
-[🔝 Top](#changelog-for-marvin-relay-driver-board)
+[🔝 Top](#top)
 
 <!--
 ### Added

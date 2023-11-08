@@ -83,7 +83,7 @@ N/A
 
 | Board | Mounting Brackets | Slotted Metal Rail DIN  | Screws M3 D=3mm, L=6mm   | Panel Box     |
 |--------------------|--------------------------------------------|-------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
-| ![PCB Back](https://github.com/seryalda/foghorn/raw/main/1.0.0/3dv1.png) | [FOGHORN](https://github.com/seryalda/foghorn) | ![PCB Back](https://github.com/seryalda/foghorn/raw/main/1.0.0/3dv1.png) | ![PCB Back](https://github.com/seryalda/foghorn/raw/main/1.0.0/3dv1.png) | ![PCB Back](https://github.com/seryalda/foghorn/raw/main/1.0.0/3dv1.png) |
+| ![PCB Back](https://github.com/seryalda/foghorn/raw/main/1.0.0/3dv1.png) | ![PCB Back](https://github.com/seryalda/foghorn/raw/main/1.0.0/3dv1.png) | ![PCB Back](https://github.com/seryalda/foghorn/raw/main/1.0.0/3dv1.png) | ![PCB Back](https://github.com/seryalda/foghorn/raw/main/1.0.0/3dv1.png) | ![PCB Back](https://github.com/seryalda/foghorn/raw/main/1.0.0/3dv1.png) |
 
 [🔝 Top](#top)
 

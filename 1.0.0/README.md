@@ -23,14 +23,19 @@ DAWG (AC Relay Driver Board). This board is purpose-built to address a common ne
 
 ## Features
 
-- **Relay Control:** simplifies the process of controlling mechanical and solid-state relays, allowing you to manage higher voltage loads with ease.
+## Features
 
-- **Versatility:** The board is designed to drive HV relay swiches (both mechanical and solid-state), making it adaptable to a wide range of applications.
+- **Relay Control:** This feature simplifies the process of controlling mechanical and solid-state relays, enabling you to manage higher voltage loads with ease.
 
-- **Ease of Integration:** With user-friendly terminal screw blocks, connectors and pin headers configurations the board ensures easy integration.
+- **Versatility:** The board is designed to drive HV relay switches, encompassing both mechanical and solid-state options, making it adaptable to a wide range of applications.
 
-- **DIN Rail Support:** The board is DIN RAIL compatible, allowing you to seamlessly mount it in standard 35mm DIN RAIL enclosures. This feature ensures that your projects look professional, sturdy and can be easily integrated into existing distribution panels.
-- **Comprehensive Documentation:** Access comprehensive documentation to help you quickly get started and make the most of your relay driver.
+- **Ease of Integration:** The board ensures easy integration through user-friendly terminal screw blocks, connectors, and pin headers configurations.
+
+- **DIN Rail Support:** DIN RAIL compatibility enables seamless mounting in standard 35mm DIN RAIL enclosures. This feature ensures that your projects have a professional and sturdy appearance and can be effortlessly integrated into existing distribution panels.
+
+- **Comprehensive Documentation:** Access comprehensive documentation to swiftly get started and leverage the full potential of your relay driver.
+
+
 
 [🔝 Top](#top)
 

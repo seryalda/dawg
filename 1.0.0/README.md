@@ -50,6 +50,8 @@ Things and diagram you will need, for wiring and to implement RAIL DIN configura
 | How to Wire Diagram | Sample Wiring | Slotted Metal Rail DIN  | Screws M3 D=3mm, L=6mm   | Mounting Brackets (25mm center to center) |
 |--------------------|--------------------------------------------|-------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
 | <img src="ex1.png" alt="PCB Back" width="150"> | <img src="wiring2.png" alt="PCB Back" width="150"> | <img src="slotted-metal-rail-din1.jpg" alt="PCB Back" width="150"> | <img src="m3-screws1.jpg" alt="PCB Back" width="150"> | <img src="rail-din-mounting-bracket1.png" alt="PCB Back" width="150"> |
+|[🔝 BUYHERE](#)|[🔝 BUYHERE](#)|[🔝 BUYHERE](#)|[🔝 BUYHERE](#)|[🔝 BUYHERE](#)|
+
   
 [🔝 Top](#top)
 
@@ -60,6 +62,7 @@ DAWG Board v1.0.0 also works with below Processor Board:
 | Board              | Link                                       | Image                                                                                                 | Description                                                                                                                                      | GPIO Output Pins     |
 |--------------------|--------------------------------------------|-------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
 | **Foghorn v1.0.0** | [FOGHORN](https://github.com/seryalda/foghorn) | ![PCB Back](https://github.com/seryalda/foghorn/raw/main/1.0.0/3dv1.png) | The board integrates with the Foghorn Version 1.0.0 Processor Board. It's an ESP8266 NodeMCU v3 compatible board with a screw terminal block output mapped to GPIO pins 4, 5, 12, and 14, allowing control of up to 4 external switch relays or CONTACTORS. | 4, 5, 12, 14 |
+
 
 
 Explore the compatibility of DAWG with these processor boards to enhance your projects.

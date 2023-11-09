@@ -19,7 +19,10 @@
 
 ## Overview
 
-DAWG (AC Relay Driver Board). This board is purpose-built to address a common need in electronics projects: providing a reliable AC relay driver. Its primary goal is to enable low-voltage output controllers like Arduino and ESP microcontrollers to efficiently control multiple AC CONTACTORS or Industrial DC Relay Switches (of DC voltage more than 12VDC).
+DAWG - AC Relay Driver Board
+DAWG is a specialized RAIL DIN 76MM X 86MM PCB equipped with two screw holes on each side, spaced 25mm apart. It caters to a common electronics project requirement: providing a dependable AC relay driver. The primary objective is to empower low-voltage output controllers, such as Arduino and ESP microcontrollers, to efficiently manage multiple AC CONTACTORS or Industrial DC Relay Switches (with a DC voltage exceeding 12VDC).
+
+Functioning as a 4-channel relay driver, it doesn't operate as a standard relay switch. Instead, it outputs a user-selected AC voltage to activate external DC RELAY SWITCHES, thus earning its name as a relay driving board.
 
 ## Features
 

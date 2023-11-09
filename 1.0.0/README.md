@@ -19,7 +19,8 @@
 
 ## Overview
 
-### DAWG - 4-Channel AC Relay Driver Board for Arduino and ESP Microcontrollers**
+### 4-Channel AC Relay Driver Board for Arduino and ESP Microcontrollers
+
 The DAWG AC Relay Driver Board is a purpose-built, specialized solution for electronics projects. Measuring 76mm x 86mm, this RAIL DIN board with two screw holes (25mm center to center apart) offers a reliable means to control AC CONTACTORS or Industrial DC Relay Switches with DC voltage exceeding 12VDC. Unlike standard relays, this 4-channel relay driver serves as an intermediary, allowing low-voltage output controllers like Arduino and ESP microcontrollers to effectively activate external DC relay switches using user-selected AC voltages.
 
 Powered by an external 5VDC source, the board simplifies the control of multiple relay switches for diverse applications, making it an ideal choice for various electronic projects.

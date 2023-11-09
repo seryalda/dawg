@@ -37,7 +37,7 @@ DAWG (AC Relay Driver Board). This board is purpose-built to address a common ne
 
 [🔝 Top](#top)
 
-## Usage
+## Things you need to know
 
 NA
 

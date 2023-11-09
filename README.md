@@ -19,7 +19,7 @@ The DAWG board, measuring 86mm x 86mm, offers a streamlined solution for control
 
 | Version | Board Image | Release Date  | Remarks   | Notes |
 |--------------------|--------------------------------------------|-------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
-| [1.0.0](./1.0.0) | <img src="1.0.0/images/3dv1.png" alt="PCB Back" width="150"> | NOV 2023 | NA | Alright! |
+| [1.0.0](./1.0.0) | <img src="1.0.0/images/3dv1.png" alt="PCB Back" width="150"> | NOV 2023 | NA | [🛍️ BUY THIS BOARD!](https://www.amazon.sa/dp/B0CN12CGTB/)! |
 
 
 [🔝 Top](#top)

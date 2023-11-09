@@ -55,7 +55,7 @@ Things and diagram you will need, for wiring and to implement RAIL DIN configura
 | How to Wire Diagram | Sample Wiring | Slotted Metal Rail DIN  | Screws M3 D=3mm, L=6mm   | Mounting Brackets (25mm center to center) |
 |--------------------|--------------------------------------------|-------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
 | <img src="images/ex1.png" alt="PCB Back" width="150"> | <img src="images/wiring2.png" alt="PCB Back" width="150"> | <img src="images/slotted-metal-rail-din1.jpg" alt="PCB Back" width="150"> | <img src="images/m3-screws1.jpg" alt="PCB Back" width="150"> | <img src="images/rail-din-mounting-bracket1.png" alt="PCB Back" width="150"> |
-|||[🛍️ BUYHERE](#)|[🛍️ BUYHERE](#)|[🛍️ BUYHERE](#)|
+|||[🛍️ BUYHERE](#)|[🛍️ BUYHERE](#)|[🛍️ BUYHERE](GOOGLE.COM)|
 
   
 [🔝 Top](#top)

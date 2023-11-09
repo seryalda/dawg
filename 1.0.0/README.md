@@ -34,7 +34,12 @@ Powered by an external 5VDC source, the board simplifies the control of multiple
 
 ## Things you need to know
 
-NA
+### DAWG - 4-Channel AC Relay Driver Board for Arduino and ESP Microcontrollers
+- **Power Requirements:** Ensure a stable external 5VDC power source for optimal operation.
+- **Voltage Limitations:** Verify the DC voltage does not exceed 12VDC for controlling AC CONTACTORS or Industrial DC Relay Switches.
+- **Compatible Controllers:** Intended for use with low-voltage output controllers such as Arduino and ESP microcontrollers.
+- **Size Consideration:** Dimensions are 76mm x 86mm, so ensure adequate space for installation.
+- **Relay Switches:** Use appropriate relay switches compatible with the board for desired functionality.
 
 [🔝 Top](#top)
 

@@ -8,7 +8,8 @@
 [![Image](https://github.com/seryalda/foghorn/raw/main/1.0.0/images/3dv1.png)](https://github.com/seryalda/foghorn/raw/main/1.0.0/images/3dv1.png) :link: Click to view the image!
 [🔝 Top](())
 [GitHub Pages](https://www.amazon.sa/dp/B0CN12CGTB/).
-## [GitHub Pages](https://www.amazon.sa/dp/B0CN12CGTB/).
+##BUY BOARD HERE 
+[BUY](https://www.amazon.sa/dp/B0CN12CGTB/).
 <!--📷-->
 
 ## Table of Contents

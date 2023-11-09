@@ -13,7 +13,7 @@
 - ⚙️ [Installation](#installation)
 - 🖥️ [Compatible Processor Boards](#compatible-processor-boards)
 - 🤝 [FAQ](#faq)
-- 🤝 [Contributing](#contributing)
+- 🤝 [Disclaimer](#disclaimer)
 - 📝 [License](#license)
 
 

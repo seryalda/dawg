@@ -9,7 +9,7 @@
 [🔝 Top](())
 [GitHub Pages](https://www.amazon.sa/dp/B0CN12CGTB/).
 
-## BUY BOARD HERE 
+
 [BUY](https://www.amazon.sa/dp/B0CN12CGTB/).
 <!--📷-->
 

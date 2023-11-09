@@ -75,7 +75,7 @@ N/A
 
 [🔝 Top](#top)
 
-## Contributing
+## Disclaimer
 
 NA
 

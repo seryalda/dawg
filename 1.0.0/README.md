@@ -9,7 +9,7 @@
 
 - 📚 [Overview](#overview)
 - 🎯 [Features](#features)
-- 🛠️ [Usage](#usage)
+- 🛠️ [Things you need to know](#things-you-need-to-know)
 - ⚙️ [Installation](#installation)
 - 🖥️ [Compatible Processor Boards](#compatible-processor-boards)
 - 🤝 [FAQ](#faq)

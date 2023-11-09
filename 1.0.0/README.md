@@ -4,6 +4,8 @@
 <img src="images/3dv1.png" alt="PCB Back" width="300">
 [🛍️ BUY BOARD HERE](#https://www.amazon.sa/dp/B0CN12CGTB)
 [BUY](https://www.amazon.sa/dp/B0CN12CGTB)
+![PCB Back](https://github.com/seryalda/foghorn/raw/main/1.0.0/images/3dv1.png)
+
 <!--📷-->
 
 ## Table of Contents

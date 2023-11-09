@@ -19,24 +19,17 @@
 
 ## Overview
 
-DAWG - AC Relay Driver Board
-DAWG is a specialized RAIL DIN 76MM X 86MM PCB equipped with two screw holes on each side, spaced 25mm apart. It caters to a common electronics project requirement: providing a dependable AC/DC relay driver. The primary objective is to empower low-voltage output controllers, such as Arduino and ESP microcontrollers, to efficiently manage multiple AC CONTACTORS or Industrial DC Relay Switches (with a DC voltage exceeding 12VDC).
+The DAWG AC Relay Driver Board is a purpose-built, specialized solution for electronics projects. Measuring 76mm x 86mm, this RAIL DIN board with two screw holes (25mm center to center apart) offers a reliable means to control AC CONTACTORS or Industrial DC Relay Switches with DC voltage exceeding 12VDC. Unlike standard relays, this 4-channel relay driver serves as an intermediary, allowing low-voltage output controllers like Arduino and ESP microcontrollers to effectively activate external DC relay switches using user-selected AC voltages.
 
-Functioning as a 4-channel relay driver, it doesn't operate as a standard relay switch. Instead, it outputs a user-selected AC/DC voltage to activate external AC/DC RELAY SWITCHES, thus earning its name as a relay driving board.
+Powered by an external 5VDC source, the board simplifies the control of multiple relay switches for diverse applications, making it an ideal choice for various electronic projects.
 
-## Features
-
-- **Relay Control:** This feature simplifies the process of controlling mechanical and solid-state relays, enabling you to manage higher voltage loads with ease.
-
-- **Versatility:** The board is designed to drive HV relay switches, encompassing both mechanical and solid-state options, making it adaptable to a wide range of applications.
-
-- **Ease of Integration:** The board ensures easy integration through user-friendly terminal screw blocks, connectors, and pin headers configurations.
-
-- **DIN Rail Support:** DIN RAIL compatibility enables seamless mounting in standard 35mm DIN RAIL enclosures. This feature ensures that your projects have a professional and sturdy appearance and can be effortlessly integrated into existing distribution panels.
-
-- **Comprehensive Documentation:** Access comprehensive documentation to swiftly get started and leverage the full potential of your relay driver.
-
-
+## Key Features
+- 4-channel relay driver board for AC CONTACTORS and Industrial DC Relay Switches.
+- Designed to work with low-voltage output controllers like Arduino and ESP microcontrollers.
+- Enables control of external DC relay switches using user-selected AC voltages.
+- Dimensions: 76mm x 86mm RAIL DIN board with two screw holes.
+- External 5VDC power source for operation.
+- Ideal for applications requiring reliable and efficient relay driving.
 
 [🔝 Top](#top)
 

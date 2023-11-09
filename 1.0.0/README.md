@@ -1,7 +1,7 @@
 ## Top
 # 🎉 DAWG AC Relay Driver Board v1.0.0
 ### ◀️ [Back](/)
-<img src="1.0.0/images/3dv1.png" alt="PCB Back" width="300">
+<img src="images/3dv1.png" alt="PCB Back" width="300">
 
 <!--📷-->
 

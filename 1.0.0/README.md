@@ -1,5 +1,5 @@
 ## Top
-# 🎉 DAWG 4-Channel AC Relay Driver Board for Arduino and ESP Microcontrollers v1.0.0
+# 🎉 DAWG 4-Channel AC Relay Driver Board for Microcontrollers v1.0.0
 ### ◀️ [Back](/)
 <img src="images/3dv1.png" alt="PCB Back" width="300">
 

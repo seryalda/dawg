@@ -8,7 +8,7 @@
 [![Image](https://github.com/seryalda/foghorn/raw/main/1.0.0/images/3dv1.png)](https://github.com/seryalda/foghorn/raw/main/1.0.0/images/3dv1.png) :link: Click to view the image!
 [🔝 Top](())
 [GitHub Pages](https://www.amazon.sa/dp/B0CN12CGTB/).
-
+## [GitHub Pages](https://www.amazon.sa/dp/B0CN12CGTB/).
 <!--📷-->
 
 ## Table of Contents
@@ -23,7 +23,7 @@
 - 📝 [Demo](#demo)
 
 ## Overview
-[GitHub Pages](https://www.amazon.sa/dp/B0CN12CGTB/).
+
 The DAWG AC Relay Driver Board is a purpose-built, specialized solution for electronics projects. Measuring 76mm x 86mm, this RAIL DIN board with two screw holes (25mm center to center apart) offers a reliable means to control AC CONTACTORS or Industrial DC Relay Switches with DC voltage exceeding 12VDC. Unlike standard relays, this 4-channel relay driver serves as an intermediary, allowing low-voltage output controllers like Arduino and ESP microcontrollers to effectively activate external DC relay switches using user-selected AC voltages.
 
 Powered by an external 5VDC source, the board simplifies the control of multiple relay switches for diverse applications, making it an ideal choice for various electronic projects.

@@ -2,7 +2,7 @@
 # 🎉 DAWG 4-Channel AC Relay Driver Board for Microcontrollers v1.0.0
 ### ◀️ [Back](/)
 <img src="images/3dv1.png" alt="PCB Back" width="300">
-[🛍️ BUY BOARD HERE](https://www.amazon.sa/dp/B0CN12CGTB)
+[🛍️ BUY BOARD HERE](#https://www.amazon.sa/dp/B0CN12CGTB)
 [BUY](https://www.amazon.sa/dp/B0CN12CGTB)
 <!--📷-->
 

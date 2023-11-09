@@ -4,7 +4,7 @@
 <img src="images/3dv1.png" alt="PCB Back" width="300">
 
 
-[🛍️ BUY BOARD HERE](https://www.amazon.sa/dp/B0CN12CGTB/).
+[🛍️ ORDER BOARD ONLINE](https://www.amazon.sa/dp/B0CN12CGTB/).
 <!--📷-->
 
 ## Table of Contents
